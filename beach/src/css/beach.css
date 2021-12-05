@@ -19,6 +19,19 @@ body {
     background-position: center;
 }
 
+.btn {
+    display: inline-block;
+    min-width: 140px;
+    border: 1px solid;
+    outline: none;
+    padding: 10px 20px;
+    color: inherit;
+    background-color: transparent;
+    border-radius: 6px;
+    text-decoration: none;
+}
+
+
 .header_all {
     padding-top: 50vh;
     text-align: center;
@@ -35,17 +48,6 @@ body {
     font-size: 20px;
 }
 
-.btn {
-    display: inline-block;
-    min-width: 140px;
-    border: 1px solid;
-    outline: none;
-    padding: 10px 20px;
-    color: inherit;
-    background-color: transparent;
-    border-radius: 6px;
-    text-decoration: none;
-}
 
 .content {
     font-size: 0;
