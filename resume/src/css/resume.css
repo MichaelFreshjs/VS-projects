@@ -1,22 +1,24 @@
- .vody {
-    b
+ .body {
     border: 6px;
     border-style: dashed;
     border: firebrick;
 
  }
  .Title {
-    text-align: right; 
+    text-align: left; 
     color: cadetblue;
+    i
 
  }
 
  .portrait_img {
-    float: right;
+    float: left;
+
     width: 240px;
 
  } 
  .info {
-    text-align: start; 
+    text-align: left; 
     height:60px;
-}
+
+} 
